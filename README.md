@@ -1,34 +1,43 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1250">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="sodoba-analiza-podatkov_files/filelist.xml">
+<link rel=File-List href="sodobna-analiza-podatkov_files/filelist.xml">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Erik</o:Author>
   <o:LastAuthor>Gregor</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>2368</o:TotalTime>
-  <o:Created>2021-05-12T13:43:00Z</o:Created>
-  <o:LastSaved>2021-05-12T13:43:00Z</o:LastSaved>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>2370</o:TotalTime>
+  <o:Created>2021-05-12T13:58:00Z</o:Created>
+  <o:LastSaved>2021-05-12T13:59:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>434</o:Words>
-  <o:Characters>2478</o:Characters>
+  <o:Characters>2479</o:Characters>
   <o:Lines>20</o:Lines>
   <o:Paragraphs>5</o:Paragraphs>
-  <o:CharactersWithSpaces>2907</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>2908</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=themeData href="sodoba-analiza-podatkov_files/themedata.thmx">
+<link rel=themeData href="sodobna-analiza-podatkov_files/themedata.thmx">
 <link rel=colorSchemeMapping
-href="sodoba-analiza-podatkov_files/colorschememapping.xml">
+href="sodobna-analiza-podatkov_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:Zoom>90</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -796,6 +805,9 @@ p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxS
 	mso-bidi-theme-font:minor-bidi;
 	mso-ansi-language:EN-US;
 	mso-fareast-language:EN-US;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -972,18 +984,40 @@ line-height:115%;font-family:"Titillium Web"'>SODOBNA ANALIZA PODATKOV<o:p></o:p
 
 <p class=MsoNormal style='text-align:justify'><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
-"Titillium Web"'>To sosledje delavnic pobude DataScience@UL-FRI je namenjeno
-vsem, ki imajo v svojem poklicu opravka s podatki in bi se radi naučili, kako
-podatke urejati in jih analizirati na bolj sistematičen in učinkovit način. Z
-drugimi besedami tistim, ki bi radi postali analitik na svojem področju dela. Preko
-spoznavnega nivoja so delavnice dostopne tudi udeležencem, ki še nimajo
-izkušenj s programiranjem. <o:p></o:p></span></p>
+"Titillium Web"'>To <span class=SpellE>sosledje</span> <span class=SpellE>delavnic</span>
+<span class=SpellE>pobude</span> <span class=SpellE>DataScience@UL-FRI</span>
+je <span class=SpellE>namenjeno</span> <span class=SpellE>vsem</span>, <span
+class=SpellE>ki</span> <span class=SpellE>imajo</span> v <span class=SpellE>svojem</span>
+<span class=SpellE>poklicu</span> <span class=SpellE>opravka</span> s <span
+class=SpellE>podatki</span> in bi se <span class=SpellE>radi</span> <span
+class=SpellE>naučili</span>, <span class=SpellE>kako</span> <span class=SpellE>podatke</span>
+<span class=SpellE>urejati</span> in <span class=SpellE>jih</span> <span
+class=SpellE>analizirati</span> <span class=SpellE>na</span> <span
+class=SpellE>bolj</span> <span class=SpellE>sistematičen</span> in <span
+class=SpellE>učinkovit</span> <span class=SpellE>način</span>. Z <span
+class=SpellE>drugimi</span> <span class=SpellE>besedami</span> <span
+class=SpellE>tistim</span>, <span class=SpellE>ki</span> bi <span class=SpellE>radi</span>
+<span class=SpellE>postali</span> <span class=SpellE>analitik</span> <span
+class=SpellE>na</span> <span class=SpellE>svojem</span> <span class=SpellE>področju</span>
+<span class=SpellE>dela</span>. <span class=SpellE>Preko</span> <span
+class=SpellE>spoznavnega</span> <span class=SpellE>nivoja</span> so <span
+class=SpellE>delavnice</span> <span class=SpellE>dostopne</span> <span
+class=SpellE>tudi</span> <span class=SpellE>udeležencem</span>, <span
+class=SpellE>ki</span> <span class=SpellE>še</span> <span class=SpellE>nimajo</span>
+<span class=SpellE>izkušenj</span> s <span class=SpellE>programiranjem</span>. <o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span lang=EN-US
+<p class=MsoNormal style='text-align:justify'><span class=SpellE><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;
+font-family:"Titillium Web"'>Delavnice</span></span><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:
-"Titillium Web"'>Delavnice izvajamo v skladu s povpraševanjem, a vsako
-delavnico predvidoma izvedemo vsaj enkrat letno, delavnice spoznavnega in
-osnovnega nivoja pa večkrat letno.<o:p></o:p></span></p>
+"Titillium Web"'> <span class=SpellE>izvajamo</span> v <span class=SpellE>skladu</span>
+s <span class=SpellE>povpraševanjem</span>, a <span class=SpellE>vsako</span> <span
+class=SpellE>delavnico</span> <span class=SpellE>predvidoma</span> <span
+class=SpellE>izvedemo</span> <span class=SpellE>vsaj</span> <span class=SpellE>enkrat</span>
+<span class=SpellE>letno</span>, <span class=SpellE>delavnice</span> <span
+class=SpellE>spoznavnega</span> in <span class=SpellE>osnovnega</span> <span
+class=SpellE>nivoja</span> <span class=SpellE>pa</span> <span class=SpellE>večkrat</span>
+<span class=SpellE>letno</span>.<o:p></o:p></span></p>
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=745
  style='width:558.65pt;border-collapse:collapse;border:none;mso-border-alt:
@@ -1010,16 +1044,41 @@ osnovnega nivoja pa večkrat letno.<o:p></o:p></span></p>
   style='font-family:"Titillium Web"'>R ZA NEPROGRAMERJE<o:p></o:p></span></b></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
   justify;line-height:normal'><span lang=EN-US style='font-size:9.0pt;
-  mso-bidi-font-size:11.0pt;font-family:"Titillium Web"'>R je programski jezik,
-  ki je prilagojen delu s podatki in je najbolj popularen jezik med tistimi, ki
-  se ukvarjajo s statistično analizo podatkov. Je tudi relativno preprost za
-  uporabo in primeren za učenje tudi brez predhodnih programerskih znanj. R nam
-  omogoča, da s podatki delamo samostojno, sistematično in brez omejitev, ki
-  jih prinese uporaba bolj specifičnih orodij, kot sta npr. Microsoft Excel in
-  SPSS. Delavnico tipično izvedemo v obliki osmih 90-minutnih interaktivnih
-  srečanj z domačimi nalogami. Udeleženci so na koncu sposobni programsko
-  prebrati in shraniti datoteke s podatki, izvajati operacije nad podatkovnimi
-  razpredelnicami in prikazati rezultate s preprostimi vizualizacijami.<o:p></o:p></span></p>
+  mso-bidi-font-size:11.0pt;font-family:"Titillium Web"'>R je <span
+  class=SpellE>programski</span> <span class=SpellE>jezik</span>, <span
+  class=SpellE>ki</span> je <span class=SpellE>prilagojen</span> <span
+  class=SpellE>delu</span> s <span class=SpellE>podatki</span> in je <span
+  class=SpellE>najbolj</span> <span class=SpellE>popularen</span> <span
+  class=SpellE>jezik</span> med <span class=SpellE>tistimi</span>, <span
+  class=SpellE>ki</span> se <span class=SpellE>ukvarjajo</span> s <span
+  class=SpellE>statistično</span> <span class=SpellE>analizo</span> <span
+  class=SpellE>podatkov</span>. Je <span class=SpellE>tudi</span> <span
+  class=SpellE>relativno</span> <span class=SpellE>preprost</span> za <span
+  class=SpellE>uporabo</span> in <span class=SpellE>primeren</span> za <span
+  class=SpellE>učenje</span> <span class=SpellE>tudi</span> <span class=SpellE>brez</span>
+  <span class=SpellE>predhodnih</span> <span class=SpellE>programerskih</span> <span
+  class=SpellE>znanj</span>. R <span class=SpellE>nam</span> <span
+  class=SpellE>omogoča</span>, da s <span class=SpellE>podatki</span> <span
+  class=SpellE>delamo</span> <span class=SpellE>samostojno</span>, <span
+  class=SpellE>sistematično</span> in <span class=SpellE>brez</span> <span
+  class=SpellE>omejitev</span>, <span class=SpellE>ki</span> <span
+  class=SpellE>jih</span> <span class=SpellE>prinese</span> <span class=SpellE>uporaba</span>
+  <span class=SpellE>bolj</span> <span class=SpellE>specifičnih</span> <span
+  class=SpellE>orodij</span>, <span class=SpellE>kot</span> <span class=SpellE>sta</span>
+  <span class=SpellE>npr</span>. Microsoft Excel in SPSS. <span class=SpellE>Delavnico</span>
+  <span class=SpellE>tipično</span> <span class=SpellE>izvedemo</span> v <span
+  class=SpellE>obliki</span> <span class=SpellE>osmih</span> 90-minutnih <span
+  class=SpellE>interaktivnih</span> <span class=SpellE>srečanj</span> z <span
+  class=SpellE>domačimi</span> <span class=SpellE>nalogami</span>. <span
+  class=SpellE>Udeleženci</span> so <span class=SpellE>na</span> <span
+  class=SpellE>koncu</span> <span class=SpellE>sposobni</span> <span
+  class=SpellE>programsko</span> <span class=SpellE>prebrati</span> in <span
+  class=SpellE>shraniti</span> <span class=SpellE>datoteke</span> s <span
+  class=SpellE>podatki</span>, <span class=SpellE>izvajati</span> <span
+  class=SpellE>operacije</span> <span class=SpellE>nad</span> <span
+  class=SpellE>podatkovnimi</span> <span class=SpellE>razpredelnicami</span> in
+  <span class=SpellE>prikazati</span> <span class=SpellE>rezultate</span> s <span
+  class=SpellE>preprostimi</span> <span class=SpellE>vizualizacijami</span>.<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;page-break-inside:avoid;height:84.1pt'>
@@ -1042,15 +1101,40 @@ osnovnega nivoja pa večkrat letno.<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
   justify;line-height:normal'><span lang=EN-US style='font-size:9.0pt;
   mso-bidi-font-size:11.0pt;font-family:"Titillium Web"'><br>
-  Osnovni nivo je sestavljen iz treh intenzivnih delavnic, ki jih lahko
-  obiščemo v poljubnem vrstnem redu. V njih pokrijemo snov, ki jo smatramo kot
-  ključno za strokovno delo s podatki, ne glede na to, s katerim področjem se
-  ukvarjamo. Poudarek je na osnovnih konceptih, a sproti spoznamo tudi, kako
-  operacije izvesti v praksi z uporabo programskega jezika R. Vsako delavnico
-  tipično izvedemo v obliki štirih 90-minutnih srečanj z nalogami za samostojno
-  utrjevanje pred in po vsakem srečanju. Delavnice so primerne za udeležence,
-  ki so že domači v programskem jeziku R ali vešči programiranja v nekem drugem
-  programskem jeziku.</span><span lang=EN-US style='font-family:"Titillium Web"'><o:p></o:p></span></p>
+  <span class=SpellE>Osnovni</span> <span class=SpellE>nivo</span> je <span
+  class=SpellE>sestavljen</span> <span class=SpellE>iz</span> <span
+  class=SpellE>treh</span> <span class=SpellE>intenzivnih</span> <span
+  class=SpellE>delavnic</span>, <span class=SpellE>ki</span> <span
+  class=SpellE>jih</span> <span class=SpellE>lahko</span> <span class=SpellE>obiščemo</span>
+  v <span class=SpellE>poljubnem</span> <span class=SpellE>vrstnem</span> <span
+  class=SpellE>redu</span>. V <span class=SpellE>njih</span> <span
+  class=SpellE>pokrijemo</span> <span class=SpellE>snov</span>, <span
+  class=SpellE>ki</span> jo <span class=SpellE>smatramo</span> <span
+  class=SpellE>kot</span> <span class=SpellE>ključno</span> za <span
+  class=SpellE>strokovno</span> <span class=SpellE>delo</span> s <span
+  class=SpellE>podatki</span>, ne glede <span class=SpellE>na</span> to, s <span
+  class=SpellE>katerim</span> <span class=SpellE>področjem</span> se <span
+  class=SpellE>ukvarjamo</span>. <span class=SpellE>Poudarek</span> je <span
+  class=SpellE>na</span> <span class=SpellE>osnovnih</span> <span class=SpellE>konceptih</span>,
+  a <span class=SpellE>sproti</span> <span class=SpellE>spoznamo</span> <span
+  class=SpellE>tudi</span>, <span class=SpellE>kako</span> <span class=SpellE>operacije</span>
+  <span class=SpellE>izvesti</span> v <span class=SpellE>praksi</span> z <span
+  class=SpellE>uporabo</span> <span class=SpellE>programskega</span> <span
+  class=SpellE>jezika</span> R. <span class=SpellE>Vsako</span> <span
+  class=SpellE>delavnico</span> <span class=SpellE>tipično</span> <span
+  class=SpellE>izvedemo</span> v <span class=SpellE>obliki</span> <span
+  class=SpellE>štirih</span> 90-minutnih <span class=SpellE>srečanj</span> z <span
+  class=SpellE>nalogami</span> za <span class=SpellE>samostojno</span> <span
+  class=SpellE>utrjevanje</span> <span class=SpellE>pred</span> in po <span
+  class=SpellE>vsakem</span> <span class=SpellE>srečanju</span>. <span
+  class=SpellE>Delavnice</span> so <span class=SpellE>primerne</span> za <span
+  class=SpellE>udeležence</span>, <span class=SpellE>ki</span> so <span
+  class=SpellE>že</span> <span class=SpellE>domači</span> v <span class=SpellE>programskem</span>
+  <span class=SpellE>jeziku</span> R <span class=SpellE>ali</span> <span
+  class=SpellE>vešči</span> <span class=SpellE>programiranja</span> v <span
+  class=SpellE>nekem</span> <span class=SpellE>drugem</span> <span
+  class=SpellE>programskem</span> <span class=SpellE>jeziku</span>.</span><span
+  lang=EN-US style='font-family:"Titillium Web"'><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;page-break-inside:avoid;height:131.75pt'>
@@ -1062,12 +1146,24 @@ osnovnega nivoja pa večkrat letno.<o:p></o:p></span></p>
   lang=EN-US style='font-family:"Titillium Web"'><br>
   UREJANJE PODATKOV<o:p></o:p></span></b></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal'><span lang=EN-US style='font-size:9.0pt;
-  font-family:"Titillium Web"'>Paketi tidyverse in dobre prakse dela s podatki.
-  Branje in pisanje podatkov v standardnih oblikah (.csv, .xlsx, binarno).<span
-  style='mso-spacerun:yes'>  </span>Izvajanje operacij nad vrsticami, stolpci
-  in celicami tabel ter med večimi tabelami hkrati. Delo z nizi, kategoričnimi podatki,
-  ordinalnimi podatki in datumi.<o:p></o:p></span></p>
+  justify;line-height:normal'><span class=SpellE><span lang=EN-US
+  style='font-size:9.0pt;font-family:"Titillium Web"'>Paketi</span></span><span
+  lang=EN-US style='font-size:9.0pt;font-family:"Titillium Web"'> <span
+  class=SpellE>tidyverse</span> in <span class=SpellE>dobre</span> <span
+  class=SpellE>prakse</span> <span class=SpellE>dela</span> s <span
+  class=SpellE>podatki</span>. <span class=SpellE>Branje</span> in <span
+  class=SpellE>pisanje</span> <span class=SpellE>podatkov</span> v <span
+  class=SpellE>standardnih</span> <span class=SpellE>oblikah</span> (.csv,
+  .xlsx, <span class=SpellE>binarno</span>).<span style='mso-spacerun:yes'> 
+  </span><span class=SpellE>Izvajanje</span> <span class=SpellE>operacij</span>
+  <span class=SpellE>nad</span> <span class=SpellE>vrsticami</span>, <span
+  class=SpellE>stolpci</span> in <span class=SpellE>celicami</span> <span
+  class=SpellE>tabel</span> <span class=SpellE>ter</span> med <span
+  class=SpellE>večimi</span> <span class=SpellE>tabelami</span> <span
+  class=SpellE>hkrati</span>. <span class=SpellE>Delo</span> z <span
+  class=SpellE>nizi</span>, <span class=SpellE>kategoričnimi</span> <span
+  class=SpellE>podatki</span>, <span class=SpellE>ordinalnimi</span> <span
+  class=SpellE>podatki</span> in <span class=SpellE>datumi</span>.<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
   justify;line-height:normal'><span lang=EN-US style='font-size:9.0pt;
   font-family:"Titillium Web"'><o:p>&nbsp;</o:p></span></p>
@@ -1082,12 +1178,23 @@ osnovnega nivoja pa večkrat letno.<o:p></o:p></span></p>
   text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><span
   lang=EN-US style='font-family:"Titillium Web"'>POVZEMANJE IN VIZUALIZACIJA<o:p></o:p></span></b></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal'><span lang=EN-US style='font-size:9.0pt;
-  mso-bidi-font-size:11.0pt;font-family:"Titillium Web"'>Povzemanje numeričnih,
-  kategoričnih in večrazsežnih podatkov. Tipi statističnih grafov, kako
-  izbirati med njimi in kdaj je bolje uporabiti tabelo ali besedilo. Razumevanje
-  kognitivne obremenitve bralca in vloge, ki jo pri tem igrajo besedilo, oblike,
-  barve in prazen prostor.</span><span lang=EN-US style='font-family:"Titillium Web"'><o:p></o:p></span></p>
+  justify;line-height:normal'><span class=SpellE><span lang=EN-US
+  style='font-size:9.0pt;mso-bidi-font-size:11.0pt;font-family:"Titillium Web"'>Povzemanje</span></span><span
+  lang=EN-US style='font-size:9.0pt;mso-bidi-font-size:11.0pt;font-family:"Titillium Web"'>
+  <span class=SpellE>numeričnih</span>, <span class=SpellE>kategoričnih</span>
+  in <span class=SpellE>večrazsežnih</span> <span class=SpellE>podatkov</span>.
+  Tipi <span class=SpellE>statističnih</span> <span class=SpellE>grafov</span>,
+  <span class=SpellE>kako</span> <span class=SpellE>izbirati</span> med <span
+  class=SpellE>njimi</span> in <span class=SpellE>kdaj</span> je <span
+  class=SpellE>bolje</span> <span class=SpellE>uporabiti</span> <span
+  class=SpellE>tabelo</span> <span class=SpellE>ali</span> <span class=SpellE>besedilo</span>.
+  <span class=SpellE>Razumevanje</span> <span class=SpellE>kognitivne</span> <span
+  class=SpellE>obremenitve</span> <span class=SpellE>bralca</span> in <span
+  class=SpellE>vloge</span>, <span class=SpellE>ki</span> jo <span
+  class=SpellE>pri</span> <span class=SpellE>tem</span> <span class=SpellE>igrajo</span>
+  <span class=SpellE>besedilo</span>, <span class=SpellE>oblike</span>, <span
+  class=SpellE>barve</span> in <span class=SpellE>prazen</span> <span
+  class=SpellE>prostor</span>.</span><span lang=EN-US style='font-family:"Titillium Web"'><o:p></o:p></span></p>
   </td>
   <td width=223 valign=top style='width:167.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1100,12 +1207,22 @@ osnovnega nivoja pa večkrat letno.<o:p></o:p></span></p>
   text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><span
   lang=EN-US style='font-family:"Titillium Web"'>RAZUMEVANJE NEGOTOVOSTI<o:p></o:p></span></b></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal'><span lang=EN-US style='font-size:9.0pt;
-  mso-bidi-font-size:11.0pt;font-family:"Titillium Web"'>Prepoznavanje virov
-  napak pri sklepanju o procesu, ki nas zanima, na podlagi podatkov. Sodoben
-  pristop k ocenjevanju negotovosti z metodo bootstrap. Ocenjevanje in
-  prikazovanje negotovosti v tabelah in grafih. Povezava z intervali zaupanja
-  in testiranjem hipotez.</span><span lang=EN-US style='font-family:"Titillium Web"'><o:p></o:p></span></p>
+  justify;line-height:normal'><span class=SpellE><span lang=EN-US
+  style='font-size:9.0pt;mso-bidi-font-size:11.0pt;font-family:"Titillium Web"'>Prepoznavanje</span></span><span
+  lang=EN-US style='font-size:9.0pt;mso-bidi-font-size:11.0pt;font-family:"Titillium Web"'>
+  <span class=SpellE>virov</span> <span class=SpellE>napak</span> <span
+  class=SpellE>pri</span> <span class=SpellE>sklepanju</span> o <span
+  class=SpellE>procesu</span>, <span class=SpellE>ki</span> <span class=SpellE>nas</span>
+  <span class=SpellE>zanima</span>, <span class=SpellE>na</span> <span
+  class=SpellE>podlagi</span> <span class=SpellE>podatkov</span>. <span
+  class=SpellE>Sodoben</span> <span class=SpellE>pristop</span> k <span
+  class=SpellE>ocenjevanju</span> <span class=SpellE>negotovosti</span> z <span
+  class=SpellE>metodo</span> bootstrap. <span class=SpellE>Ocenjevanje</span>
+  in <span class=SpellE>prikazovanje</span> <span class=SpellE>negotovosti</span>
+  v <span class=SpellE>tabelah</span> in <span class=SpellE>grafih</span>. <span
+  class=SpellE>Povezava</span> z <span class=SpellE>intervali</span> <span
+  class=SpellE>zaupanja</span> in <span class=SpellE>testiranjem</span> <span
+  class=SpellE>hipotez</span>.</span><span lang=EN-US style='font-family:"Titillium Web"'><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;page-break-inside:avoid;height:101.2pt'>
@@ -1128,9 +1245,11 @@ osnovnega nivoja pa večkrat letno.<o:p></o:p></span></p>
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
   242;padding:0cm 5.4pt 0cm 5.4pt;height:101.2pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-US style='font-size:20.0pt;
-  mso-bidi-font-size:11.0pt;font-family:"Titillium Web";color:#A6A6A6;
-  mso-themecolor:background1;mso-themeshade:166'>Pripravljamo!</span><span
+  text-align:center;line-height:normal'><span class=SpellE><span lang=EN-US
+  style='font-size:20.0pt;mso-bidi-font-size:11.0pt;font-family:"Titillium Web";
+  color:#A6A6A6;mso-themecolor:background1;mso-themeshade:166'>Pripravljamo</span></span><span
+  lang=EN-US style='font-size:20.0pt;mso-bidi-font-size:11.0pt;font-family:
+  "Titillium Web";color:#A6A6A6;mso-themecolor:background1;mso-themeshade:166'>!</span><span
   lang=EN-US style='font-size:20.0pt;mso-bidi-font-size:11.0pt;font-family:
   "Titillium Web"'><o:p></o:p></span></p>
   </td>
@@ -1145,7 +1264,7 @@ osnovnega nivoja pa večkrat letno.<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-top:0cm;margin-right:5.65pt;
   margin-bottom:0cm;margin-left:5.65pt;margin-bottom:.0001pt;text-align:center;
   line-height:normal'><span lang=EN-US style='font-size:14.0pt;mso-bidi-font-size:
-  11.0pt;font-family:"Titillium Web";color:white;mso-themecolor:background1'>MOJSTRSK<br>
+  11.0pt;font-family:"Titillium Web";color:white;mso-themecolor:background1'>MOJSTRSKI<br>
   <span style='mso-spacerun:yes'> </span>TEČAJI</span><span lang=EN-US
   style='font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:"Titillium Web"'><o:p></o:p></span></p>
   </td>
@@ -1158,3 +1277,4 @@ osnovnega nivoja pa večkrat letno.<o:p></o:p></span></p>
 
 </body>
 
+</html>
