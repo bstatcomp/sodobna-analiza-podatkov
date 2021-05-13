@@ -1,0 +1,1 @@
+![alt text](sodobna-analiza-podatkov.png)
