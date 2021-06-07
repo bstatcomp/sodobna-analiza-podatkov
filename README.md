@@ -4,4 +4,4 @@
 
 R za neprogramerje: https://github.com/bstatcomp/R-za-neprogramerje.
 
-Urejanje podatkov: V pripravi!
+Urejanje podatkov: https://github.com/bstatcomp/urejanje-podatkov.
