@@ -1,6 +1,6 @@
 ![alt text](sodobna-analiza-podatkov.png)
 
-# Izvedbe posameznih delavnic
+# Izvedbe delavnic
 Naslednje izvedbe posameznih delavnic bodo predvidoma v teh časovnih okvirjih:
 
 | Delavnica                   | Izvedba      |
