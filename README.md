@@ -5,10 +5,10 @@ Naslednje izvedbe posameznih delavnic bodo predvidoma v teh časovnih okvirjih:
 
 | Delavnica                   | Izvedba      |
 | --------------------------- | ------------ |
-| R za neprogramerje          | jesen 2021   |
-| Urejanje podatkov           | zima 2021    |
-| Povzemanje in vizualizacija | poletje 2021 |
-| Razumevanje negotovosti     | jesen 2021   |
+| R za neprogramerje          | jesen 2022   |
+| Urejanje podatkov           | zima 2022    |
+| Povzemanje in vizualizacija | poletje 2022 |
+| Razumevanje negotovosti     | jesen 2022   |
 
 
 # Gradiva
